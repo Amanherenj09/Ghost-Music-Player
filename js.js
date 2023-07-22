@@ -14,7 +14,7 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'assets/Zoro.mp3',
+        path: 'assets/zoro.mp3',
         displayName: 'Zoro Tribute',
         cover: 'assets/zoro.jpg',
         artist: 'Tauz',
